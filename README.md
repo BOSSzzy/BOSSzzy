@@ -25,7 +25,7 @@
 
 ### 🧐 About Me
 
-- � I’m interested in **Digital applications in geotechnical engineering**.
+- 🤷‍♂️ I’m interested in **Digital applications in geotechnical engineering**.
 - 🌱 I’m currently learning **Python, Matlab, Fortran** and more.
 - 🤝 I’m looking to collaborate on **Geotechnical Engineering Cases**.
 - ⚡ Fun fact: **Stardew Valley👍🤞🤞🤞**

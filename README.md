@@ -59,7 +59,7 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Msource_BM](https://github.com/BOSSzzy/Msource_BM.git)** | *Placeholder for your geotechnical analysis project.* | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square)![Matlab](https://img.shields.io/badge/Matlab-orange?style=flat-square)![Fortran](https://img.shields.io/badge/Fortran-purple?style=flat-square) |
+| **[Msource_BM](https://github.com/BOSSzzy/Msource_BM.git)** | *Multi source information fusion method based on Bayesian - Markov theory and its application in geological stochastic inversion.* | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square)![Matlab](https://img.shields.io/badge/Matlab-orange?style=flat-square)![Fortran](https://img.shields.io/badge/Fortran-purple?style=flat-square) |
 
 <br />
 

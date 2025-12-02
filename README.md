@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://github.com/BOSSzzy.png" width="120" height="120" style="border-radius: 50%;" alt="BOSSzzy Avatar"/>
-  
+
   <h1>👋 Hi there, I'm @BOSSzzy</h1>
-  
+
   <h3>👷 Geotechnical Engineering & Digital Applications Enthusiast</h3>
-  
+
   <p>
     <a href="#-tech-stack">
       <img src="https://img.shields.io/badge/Tech%20Stack-Python%20%7C%20Matlab%20%7C%20Fortran-blue?style=flat-square" alt="Tech Stack" />
@@ -36,13 +36,13 @@
 ### 🛠️ Tech Stack
 
 <div align="left">
-  
+
   <!-- Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" />
   <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" />
   <br />
-  
+
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -52,16 +52,6 @@
 
 <br />
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=BOSSzzy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="BOSSzzy's GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BOSSzzy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </p>
-</div>
 
 <br />
 
@@ -69,21 +59,18 @@
 
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project-A](https://github.com/BOSSzzy/Project-A)** | *Placeholder for your geotechnical analysis project.* | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square) |
-| **[Project-B](https://github.com/BOSSzzy/Project-B)** | *Placeholder for your data simulation tool.* | ![Matlab](https://img.shields.io/badge/Matlab-orange?style=flat-square) |
-| **[Project-C](https://github.com/BOSSzzy/Project-C)** | *Placeholder for numerical modeling scripts.* | ![Fortran](https://img.shields.io/badge/Fortran-purple?style=flat-square) |
-
-> *Note: Click the project names above to view the repositories.*
+| **[Msource_BM](https://github.com/BOSSzzy/Msource_BM.git)** | *Placeholder for your geotechnical analysis project.* | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square)![Matlab](https://img.shields.io/badge/Matlab-orange?style=flat-square)![Fortran](https://img.shields.io/badge/Fortran-purple?style=flat-square) |
 
 <br />
 
 ### 📫 Connect with me
 
 <div align="center">
-  <a href="mailto:18550619381@163.com">
-    <img src="https://img.shields.io/badge/Email-18550619381@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:bosszzy0824@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bosszzy0824@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
 
 <br />
 

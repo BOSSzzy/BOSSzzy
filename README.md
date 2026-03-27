@@ -60,6 +60,7 @@
 | Project Name | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Msource_BM](https://github.com/BOSSzzy/Msource_BM.git)** | *Multi source information fusion method based on Bayesian - Markov theory and its application in geological stochastic inversion.* | ![Python](https://img.shields.io/badge/Python-blue?style=flat-square)![Matlab](https://img.shields.io/badge/Matlab-orange?style=flat-square)![Fortran](https://img.shields.io/badge/Fortran-purple?style=flat-square) |
+| **[Cholesky_Midpoint_RF](https://github.com/BOSSzzy/Cholesky_Midpoint_RF.git)** | *Cholesky_Midpoint_RF is a MATLAB project for generating 2D Gaussian random fields on structured grids. It provides multiple covariance kernels, solver backends, visualization/export utilities, benchmarking scripts, and a backward-compatible legacy entry point.* | ![Matlab](https://img.shields.io/badge/Matlab-orange?style=flat-square) |
 
 <br />
 

@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" preserveAspectRatio="xMidYMid slice" role="img" aria-labelledby="title desc">
+  <title id="title">Dark geotechnical profile banner</title>
+  <desc id="desc">An abstract subsurface cross-section with layered strata, topographic contours, a borehole, and a finite-element mesh.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117" />
+      <stop offset="0.55" stop-color="#111827" />
+      <stop offset="1" stop-color="#0b2634" />
+    </linearGradient>
+    <linearGradient id="horizon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" stop-opacity="0.7" />
+      <stop offset="0.55" stop-color="#a371f7" stop-opacity="0.45" />
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0.65" />
+    </linearGradient>
+    <linearGradient id="strata-one" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1f3b52" />
+      <stop offset="1" stop-color="#164e63" />
+    </linearGradient>
+    <linearGradient id="strata-two" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#312e5a" />
+      <stop offset="1" stop-color="#1f4d5d" />
+    </linearGradient>
+    <linearGradient id="strata-three" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#3a3047" />
+      <stop offset="0.55" stop-color="#2d3f55" />
+      <stop offset="1" stop-color="#143e46" />
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#58a6ff" stroke-width="0.7" stroke-opacity="0.12" />
+    </pattern>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="24" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#background)" />
+    <rect width="1200" height="320" fill="url(#grid)" />
+
+    <circle cx="1010" cy="48" r="180" fill="#6e40c9" opacity="0.09" />
+    <circle cx="1080" cy="80" r="115" fill="#2dd4bf" opacity="0.08" />
+
+    <g fill="none" stroke="url(#horizon)" stroke-width="1.5" opacity="0.48">
+      <path d="M640 36c85 36 144-28 233 8s148 14 244-15" />
+      <path d="M611 57c92 41 159-22 251 16s163 9 282-23" />
+      <path d="M590 81c110 36 177-13 270 21s179 8 312-30" />
+      <path d="M632 107c96 29 156-8 242 18s172 7 269-22" />
+    </g>
+
+    <g opacity="0.72">
+      <path d="M0 190C175 156 330 208 504 180s317-48 448-20 191 11 248-9V320H0Z" fill="url(#strata-one)" />
+      <path d="M0 225c191-27 315 31 493 2s318-42 479-9 184 8 228-4v106H0Z" fill="url(#strata-two)" />
+      <path d="M0 268c183-22 332 29 511 6s300-24 466 5 187 7 223-4v45H0Z" fill="url(#strata-three)" />
+    </g>
+
+    <g fill="none" stroke-linecap="round">
+      <path d="M0 190C175 156 330 208 504 180s317-48 448-20 191 11 248-9" stroke="#58a6ff" stroke-width="2.2" opacity="0.8" />
+      <path d="M0 225c191-27 315 31 493 2s318-42 479-9 184 8 228-4" stroke="#a371f7" stroke-width="1.8" opacity="0.72" />
+      <path d="M0 268c183-22 332 29 511 6s300-24 466 5 187 7 223-4" stroke="#2dd4bf" stroke-width="1.8" opacity="0.72" />
+    </g>
+
+    <g transform="translate(126 38)">
+      <rect x="0" y="0" width="92" height="28" rx="8" fill="#161b22" stroke="#58a6ff" stroke-opacity="0.6" />
+      <circle cx="18" cy="14" r="4" fill="#2dd4bf" />
+      <path d="M46 28v224" stroke="#f0f6fc" stroke-width="3" opacity="0.82" />
+      <path d="M35 46h22M35 83h22M35 120h22M35 157h22M35 194h22M35 231h22" stroke="#8b949e" stroke-width="2" />
+      <rect x="40" y="28" width="12" height="224" rx="4" fill="#0d1117" stroke="#2dd4bf" stroke-width="1.5" />
+      <circle cx="46" cy="252" r="7" fill="#c6a15b" stroke="#f0f6fc" stroke-width="1.5" />
+    </g>
+
+    <g transform="translate(790 117)" fill="none" stroke="#79c0ff" stroke-width="1" opacity="0.52">
+      <path d="M0 0L330 28 294 174 42 160Z" />
+      <path d="M0 0l76 166M55 5l69 164M110 9l64 163M165 14l58 159M220 19l51 151M275 23l45 139" />
+      <path d="M10 40l312 25M20 80l292 23M30 120l272 20" />
+      <path d="M0 0l312 103M55 5l247 135M110 9l184 165M330 28L20 80M322 65L30 120M312 103L42 160" stroke="#2dd4bf" stroke-opacity="0.55" />
+      <g fill="#58a6ff" stroke="none">
+        <circle cx="0" cy="0" r="3" /><circle cx="55" cy="5" r="3" /><circle cx="110" cy="9" r="3" />
+        <circle cx="165" cy="14" r="3" /><circle cx="220" cy="19" r="3" /><circle cx="275" cy="23" r="3" />
+        <circle cx="330" cy="28" r="3" /><circle cx="42" cy="160" r="3" /><circle cx="294" cy="174" r="3" />
+      </g>
+    </g>
+
+    <path d="M676 145l-38 175" stroke="#c6a15b" stroke-width="3" stroke-dasharray="8 8" opacity="0.75" />
+    <rect x="0.75" y="0.75" width="1198.5" height="318.5" rx="23.25" fill="none" stroke="#30363d" stroke-width="1.5" />
+  </g>
+</svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 248 34" role="img" aria-labelledby="title desc">
-  <title id="title">Email BOSSzzy</title>
-  <desc id="desc">A contact badge for bosszzy0824@gmail.com.</desc>
-  <rect x="0.5" y="0.5" width="247" height="33" rx="8" fill="#21262d" stroke="#30363d" />
-  <path d="M8.5 1h30v32h-30A8 8 0 0 1 .5 25V9a8 8 0 0 1 8-8Z" fill="#da3633" />
-  <path d="M9.5 11.5h20v13h-20Z" fill="none" stroke="#fff" stroke-width="1.8" stroke-linejoin="round" />
-  <path d="m10.5 12.5 9 7 9-7" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" />
-  <text x="47" y="21.8" fill="#f0f6fc" font-family="Segoe UI,Arial,sans-serif" font-size="13.5" font-weight="600">bosszzy0824@gmail.com</text>
-</svg>

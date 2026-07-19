@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 420" role="img" aria-labelledby="title desc">
+  <title id="title">Geotechnical research workstation</title>
+  <desc id="desc">A dark scientific workstation with monitors displaying a borehole log, soil layers, contour lines, and a computational mesh.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117" />
+      <stop offset="1" stop-color="#102b3a" />
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071820" />
+      <stop offset="1" stop-color="#0c3442" />
+    </linearGradient>
+    <linearGradient id="desk" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#25364a" />
+      <stop offset="1" stop-color="#172b36" />
+    </linearGradient>
+    <linearGradient id="strata" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58a6ff" />
+      <stop offset="0.5" stop-color="#a371f7" />
+      <stop offset="1" stop-color="#2dd4bf" />
+    </linearGradient>
+    <pattern id="room-grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#58a6ff" stroke-width="0.7" stroke-opacity="0.1" />
+    </pattern>
+    <clipPath id="left-screen">
+      <rect x="62" y="70" width="205" height="142" rx="5" />
+    </clipPath>
+    <clipPath id="right-screen">
+      <rect x="302" y="52" width="245" height="168" rx="5" />
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="618" height="418" rx="26" fill="url(#panel)" stroke="#30363d" stroke-width="2" />
+  <rect x="1" y="1" width="618" height="418" rx="26" fill="url(#room-grid)" />
+  <circle cx="545" cy="58" r="92" fill="#6e40c9" opacity="0.1" />
+  <circle cx="77" cy="352" r="125" fill="#2dd4bf" opacity="0.06" />
+
+  <g>
+    <rect x="49" y="57" width="231" height="169" rx="10" fill="#071217" stroke="#58a6ff" stroke-width="3" />
+    <rect x="62" y="70" width="205" height="142" rx="5" fill="url(#screen)" />
+    <g clip-path="url(#left-screen)">
+      <path d="M62 127c34-18 59 10 92-4s58-12 113 2v87H62Z" fill="#164e63" />
+      <path d="M62 153c39-14 61 11 99-2s63-7 106 9v52H62Z" fill="#312e5a" />
+      <path d="M62 181c42-12 74 8 111-4s61-2 94 10v25H62Z" fill="#183f46" />
+      <path d="M62 127c34-18 59 10 92-4s58-12 113 2M62 153c39-14 61 11 99-2s63-7 106 9M62 181c42-12 74 8 111-4s61-2 94 10" fill="none" stroke="url(#strata)" stroke-width="2" />
+      <path d="M89 83v106" stroke="#f0f6fc" stroke-width="2.5" />
+      <path d="M82 96h14M82 118h14M82 140h14M82 162h14" stroke="#2dd4bf" stroke-width="2" />
+      <circle cx="89" cy="190" r="5" fill="#c6a15b" stroke="#fff" />
+      <path d="M126 86h72M126 96h48M126 106h91" stroke="#79c0ff" stroke-width="3" stroke-linecap="round" opacity="0.75" />
+    </g>
+    <path d="M145 226v39M105 267h119" stroke="#566a7f" stroke-width="10" stroke-linecap="round" />
+  </g>
+
+  <g>
+    <rect x="288" y="38" width="273" height="196" rx="10" fill="#071217" stroke="#2dd4bf" stroke-width="3" />
+    <rect x="302" y="52" width="245" height="168" rx="5" fill="url(#screen)" />
+    <g clip-path="url(#right-screen)" fill="none">
+      <g stroke="#58a6ff" stroke-width="1" opacity="0.75">
+        <path d="M315 82l211 18-20 98-174-10Z" />
+        <path d="M315 82l45 108M351 85l46 107M388 88l45 106M425 91l45 105M462 94l44 104M499 97l27 83" />
+        <path d="M321 111l199 16M326 140l187 15M330 168l178 14" />
+        <path d="M315 82l198 73M351 85l157 97M388 88l118 110M526 100L326 140M520 127L330 168M513 155L332 188" stroke="#2dd4bf" stroke-opacity="0.55" />
+      </g>
+      <g fill="#79c0ff">
+        <circle cx="315" cy="82" r="3" /><circle cx="351" cy="85" r="3" /><circle cx="388" cy="88" r="3" />
+        <circle cx="425" cy="91" r="3" /><circle cx="462" cy="94" r="3" /><circle cx="499" cy="97" r="3" />
+        <circle cx="526" cy="100" r="3" /><circle cx="332" cy="188" r="3" /><circle cx="506" cy="198" r="3" />
+      </g>
+      <path d="M315 66h96M315 73h62" stroke="#a371f7" stroke-width="3" stroke-linecap="round" />
+    </g>
+    <path d="M403 234v37M351 273h146" stroke="#566a7f" stroke-width="10" stroke-linecap="round" />
+  </g>
+
+  <path d="M25 295h570l-22 92H47Z" fill="url(#desk)" stroke="#3e5368" stroke-width="2" />
+  <path d="M177 321h225l34 47H139Z" fill="#0b151b" stroke="#58a6ff" stroke-opacity="0.5" />
+  <g stroke="#3f566b" stroke-width="2">
+    <path d="M164 333h240M153 345h260M145 357h278" />
+    <path d="M190 321l-12 47M230 321l-7 47M270 321l-2 47M310 321l3 47M350 321l8 47M390 321l13 47" />
+  </g>
+  <ellipse cx="505" cy="338" rx="27" ry="18" fill="#0b151b" stroke="#2dd4bf" stroke-width="2" />
+  <path d="M505 322v13" stroke="#2dd4bf" stroke-width="2" />
+
+  <g transform="translate(64 307)">
+    <rect width="69" height="15" rx="7.5" fill="#f0f6fc" opacity="0.9" />
+    <rect x="7" y="4" width="28" height="7" rx="3.5" fill="#c6a15b" />
+    <rect x="38" y="4" width="24" height="7" rx="3.5" fill="#8b949e" />
+    <path d="M12 2v11M28 2v11M44 2v11M57 2v11" stroke="#21262d" stroke-width="1" opacity="0.6" />
+  </g>
+</svg>

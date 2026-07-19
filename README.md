@@ -1,54 +1,64 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Abstract geotechnical cross-section with strata, contour lines, a borehole, and a computational mesh" />
-</p>
+## Hey 👋, I'm BOSSzzy! ![Profile views counter](https://komarev.com/ghpvc/?username=BOSSzzy&style=flat-square)
+
+![Geotechnical profile header](./assets/profile-banner.svg)
+
+### Glad to see you here!
+
+*I'm BOSSzzy, a geotechnical engineering researcher focused on computational methods for understanding and managing subsurface uncertainty. With a strong interest in approaches that are rigorous yet practical, I explore spatial variability, stochastic modelling, geological inversion, and reproducible scientific workflows.*
+
+## Rapidfire
+
+<table><tr><td valign="top" width="50%">
+
+<br />
+
+- ***I’ll soon be based at [Beijing University of Technology (BJUT)](https://english.bjut.edu.cn/), Beijing***
+
+- ***I’m currently exploring computational geotechnics, stochastic modelling, and uncertainty quantification***
+
+- ***Ask me anything about random fields, geological inversion, and scientific computing***
+
+- ***I work with Python, MATLAB, R, Fortran, SQL, and Linux***
+
+- ***I enjoy Stardew Valley and connecting with people who share an interest in engineering and research***
+
+- ***Email: [bosszzy0824@gmail.com](mailto:bosszzy0824@gmail.com)***
+
+</td><td valign="top" width="50%">
 
 <div align="center">
-  <img src="https://github.com/BOSSzzy.png" width="104" height="104" alt="BOSSzzy's GitHub avatar" />
-  <h1>BOSSzzy</h1>
-  <p><strong>Geotechnical Engineering · Uncertainty Quantification · Scientific Computing</strong></p>
-  <p>Building computational tools that connect subsurface engineering, stochastic modelling, and reproducible research.</p>
-  <a href="mailto:bosszzy0824@gmail.com">
-    <img src="./assets/email-badge.svg" height="34" alt="Email bosszzy0824@gmail.com" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=BOSSzzy&style=for-the-badge&color=6e40c9" height="34" alt="BOSSzzy profile views" />
+  <img src="./assets/research-workstation.svg" align="center" width="100%" alt="Geotechnical research workstation with subsurface models and computational meshes" />
 </div>
 
-## 🔬 Research Focus
+</td></tr></table>
 
-- **Computational Geotechnics** — Numerical and data-driven methods for understanding complex ground behaviour.
-- **Spatial Variability** — Stochastic random fields for representing uncertainty in heterogeneous soils and rocks.
-- **Geological Inversion** — Bayesian–Markov approaches to multi-source information fusion and subsurface inference.
-- **Research Software** — Reproducible workflows that connect scientific ideas with transparent implementations.
+<br />
 
-## 🧰 Languages & Tools
+## Languages and Tools
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<div align="center">
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="50" />
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" height="50" />
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="R" height="50" />
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fortran/fortran-original.svg" alt="Fortran" height="50" />
+  &nbsp;&nbsp;<kbd><strong>SQL</strong></kbd>&nbsp;&nbsp;
+  <img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="50" />
+  <img style="margin: 10px" src="./assets/github-icon.svg" alt="GitHub" height="50" />
+</div>
 
-## 🚀 Featured Work
+<br />
 
-> ### [Msource_BM →](https://github.com/BOSSzzy/Msource_BM)
->
-> Multi-source data fusion for geological stochastic inversion using Bayesian–Markov methods.
->
-> `Python` · `MATLAB` · `Fortran`
+## GitHub Stats
 
-> ### [Cholesky_Midpoint_RF →](https://github.com/BOSSzzy/Cholesky_Midpoint_RF)
->
-> Generation, visualization, and benchmarking of two-dimensional Gaussian random fields on structured grids.
->
-> `MATLAB`
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=131147255" target="_blank">
+  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=131147255&image_size=auto&color_scheme=light" width="770" height="auto" alt="GitHub dashboard statistics for BOSSzzy" />
+</a>
 
-## 🤝 Collaboration
+## Featured Work
 
-I am open to research collaboration on computational geotechnics, stochastic modelling, geological uncertainty, and practical scientific software.
+**Selected projects at the intersection of geotechnical engineering, uncertainty modelling, and scientific computing.**
+
+- **[Msource_BM](https://github.com/BOSSzzy/Msource_BM)** — Bayesian–Markov multi-source data fusion for geological stochastic inversion. (`Python` · `MATLAB` · `Fortran`)
+- **[Cholesky_Midpoint_RF](https://github.com/BOSSzzy/Cholesky_Midpoint_RF)** — Generation and benchmarking of two-dimensional Gaussian random fields on structured grids. (`MATLAB`)
 
 ---
-
-<p align="center">
-  <i>Turning subsurface uncertainty into computational insight.</i>
-</p>

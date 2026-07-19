@@ -52,14 +52,13 @@
   <a href="https://github.com/BOSSzzy">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=BOSSzzy&amp;show_icons=true&amp;hide_border=true&amp;theme=github_dark" />
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BOSSzzy&amp;show_icons=true&amp;hide_border=true" width="495" alt="BOSSzzy's GitHub statistics" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=BOSSzzy&amp;show_icons=true&amp;hide_border=true" width="48%" alt="BOSSzzy's GitHub statistics" />
     </picture>
   </a>
-  <br /><br />
   <a href="https://github.com/BOSSzzy?tab=repositories">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BOSSzzy&amp;layout=compact&amp;langs_count=8&amp;card_width=770&amp;hide_border=true&amp;hide_title=true&amp;theme=github_dark" />
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BOSSzzy&amp;layout=compact&amp;langs_count=8&amp;card_width=770&amp;hide_border=true&amp;hide_title=true" width="770" alt="Most used languages across BOSSzzy's public repositories" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BOSSzzy&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=github_dark" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BOSSzzy&amp;layout=compact&amp;langs_count=8&amp;hide_border=true" width="48%" alt="Most used languages across BOSSzzy's public repositories" />
     </picture>
   </a>
 </div>

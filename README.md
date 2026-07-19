@@ -20,7 +20,7 @@
 
 - ***I work with Python, MATLAB, R, Fortran, MySQL, and Linux***
 
-- ***Email: [bosszzy0824@gmail.com](mailto:bosszzy0824@gmail.com)***
+- <a href="mailto:bosszzy0824@gmail.com"><img src="https://img.shields.io/badge/Gmail-bosszzy0824%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email bosszzy0824@gmail.com"></a>
 
 </td><td valign="top" width="50%">
 

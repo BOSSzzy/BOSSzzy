@@ -46,10 +46,13 @@
 
 <br />
 
-## GitHub Stats
+## Most Used Languages
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=131147255" target="_blank">
-  <img src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=131147255&image_size=auto&color_scheme=light" width="770" height="auto" alt="GitHub dashboard statistics for BOSSzzy" />
+<a href="https://github.com/BOSSzzy?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BOSSzzy&amp;layout=compact&amp;langs_count=8&amp;card_width=770&amp;hide_border=true&amp;hide_title=true&amp;theme=github_dark" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BOSSzzy&amp;layout=compact&amp;langs_count=8&amp;card_width=770&amp;hide_border=true&amp;hide_title=true" width="770" alt="Most used languages across BOSSzzy's public repositories" />
+  </picture>
 </a>
 
 ## Featured Work
@@ -60,4 +63,4 @@
 | **[Cholesky_Midpoint_RF](https://github.com/BOSSzzy/Cholesky_Midpoint_RF)** | Generation and benchmarking of two-dimensional Gaussian random fields on structured grids. | `MATLAB` |
 | **[FAS_RVT_RF_Liquefaction](https://github.com/BOSSzzy/FAS_RVT_RF_Liquefaction)** | Seismic hazard assessment combining FAS-RVT, random field simulation, and liquefaction potential modelling. | `MATLAB` · `Python` · `Shell` · `PowerShell` |
 
----
+<img src="./assets/Bottom_down.svg" width="100%" alt="" />

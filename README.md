@@ -70,5 +70,6 @@
 | **[Msource_BM](https://github.com/BOSSzzy/Msource_BM)** | Bayesian–Markov multi-source data fusion for geological stochastic inversion. | `Python` · `MATLAB` · `Fortran` |
 | **[Cholesky_Midpoint_RF](https://github.com/BOSSzzy/Cholesky_Midpoint_RF)** | Generation and benchmarking of two-dimensional Gaussian random fields on structured grids. | `MATLAB` |
 | **[FAS_RVT_RF_Liquefaction](https://github.com/BOSSzzy/FAS_RVT_RF_Liquefaction)** | Seismic hazard assessment combining FAS-RVT, random field simulation, and liquefaction potential modelling. | `MATLAB` · `Python` · `Shell` · `PowerShell` |
+| **[pso-gm-bp-regression](https://github.com/BOSSzzy/pso-gm-bp-regression)** | A numerical prediction framework integrating particle swarm optimization, grey modeling, and BP neural networks. | `MATLAB` |
 
 <img src="./assets/Bottom_down.svg" width="100%" alt="" />
